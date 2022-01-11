@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(218, 218, 218);
+}
+
+header {
+    background-image: url("imgs/pattern.jpg");
+    text-align: center;
+    font-family: 'Helvetica';
+    font-size: 65px;
+    font-weight: bold;
+    color: khaki;
+    margin-top: 0px;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+#s1 h3{
+  background-color: mediumspringgreen;
+}
+
+#s2 h3{
+  background-color: lightcoral;
+}
+
+#s3 h3{
+  background-color: skyblue;
+}
+
+figcaption {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+span {
+    color: blue;
+}
+
+span:hover {
+    color: rgb(223, 145, 0);
+}
+
+section {
+    border: solid 1px;
+}
+
+section:hover {
+    background-color: lightblue;
+}
+
+img:active {
+    width: 20%;
+    height: 20%;
+}
+
+footer {
+    background-image: url("imgs/pattern.jpg");
+    color: khaki;
+    text-align: center;
+}
